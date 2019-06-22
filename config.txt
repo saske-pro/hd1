@@ -1,6 +1,6 @@
-token=
+token=NTU2OTAwNzU4ODc3MTEwMjcz.XQ4XYw.NeJO7p3_v0o9joSQjJKOG-dzrjo
 owner=  
-prefix= 
+prefix=2
 game= Type help
 stayinchannel=true
 songinstatus=true
