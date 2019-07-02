@@ -1,6 +1,6 @@
 token=NTU2OTAwNzU4ODc3MTEwMjcz.XQ4XYw.NeJO7p3_v0o9joSQjJKOG-dzrjo
 owner=468836034185265162  
 prefix=2
-game= Type help
+game=𝗗émons♆
 stayinchannel=true
 songinstatus=true
